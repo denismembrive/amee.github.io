@@ -5,7 +5,7 @@ body { font-family: sans-serif; display: flex; flex-direction: column; min-heigh
 nav { background: hwb(0 100% 0%); padding: 5px 20px; } 
 ul { list-style-type: none; } 
 a { color: rgb(13, 11, 11); text-decoration: none; } 
-a:hover { text-decoration: none; color: rgb(252, 6, 6); font-weight: bold;} 
+a:hover { text-decoration: none; color: rgb(47, 6, 252); font-weight: bold;} 
 .logo a:hover { text-decoration: none; } 
 .menu li { font-size: 16px; padding: 15px 5px; white-space: nowrap; } 
 .logo a, .toggle a { font-size: 20px;} 
